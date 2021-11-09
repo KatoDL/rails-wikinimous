@@ -1,0 +1,26 @@
+// Place all the styles related to the Articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+body {
+  margin: 0 auto;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+
+li {
+  font-family: 'Roboto Mono', monospace;
+  color:black;
+  margin: 20px;
+  font-size: larger;
+}
+
+h1, p {
+  font-family: 'Roboto Mono', monospace;
+  color: black;
+  margin: 10px;
+}
